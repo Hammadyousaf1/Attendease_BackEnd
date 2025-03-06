@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+supabase
+numpy
+opencv-python
+insightface
+python-multipart
+onnxruntime
